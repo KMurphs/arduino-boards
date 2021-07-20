@@ -15,7 +15,7 @@
 			"help": {
 				"online": "https://www.etion.co.za/create/"
 			},
-			"url": "https://github.com/KMurphs/arduino-boards/raw/main/CheetahNAV-1.8.12.zip",
+			"url": "https://raw.githubusercontent.com/KMurphs/arduino-boards/main/CheetahNAV-1.8.12.zip",
 			"archiveFileName": "CheetahNAV-1.8.12.zip",
 			"checksum": "SHA-256:1bc9734c1e80649793cf629c2fd08d8890667ff8583f875fed0c08a86b1acbaa",
 			"size": "4728602",
