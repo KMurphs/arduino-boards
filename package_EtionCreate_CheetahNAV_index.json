@@ -11,7 +11,7 @@
 			"name": "CheetahNAV SAMD Boards (32-bits ARM Cortex-M0+)",
 			"architecture": "samd",
 			"version": "1.8.12",
-			"category": "cheetahnav",
+			"category": "Contributed",
 			"help": {
 				"online": "https://www.etion.co.za/create/"
 			},
